@@ -353,8 +353,8 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('👨‍💻 Developer', url=f'{DEV_CHANNEL}'),
-            InlineKeyboardButton('Channel 📢', url=f'https://t.me/TGBotsProJect')
+            InlineKeyboardButton('👨‍💻 Developer', url=f'{adinannissar}'),
+            InlineKeyboardButton('Channel 📢', url=f'https://t.me/netflixOxG')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
