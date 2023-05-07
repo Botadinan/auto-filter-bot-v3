@@ -48,7 +48,7 @@ ABOUT = """
 
 **▷🤖 Name: [auto-filter-bot-v3](https://github.com/zautekm/auto-filter-bot-v3).
     
-▷👨‍💻 Creator : [Zaute Km](https://t.me/ZauteKm)
+▷👨‍💻 Creator : [Adinan Nissar](https://t.me/adinannissar)
 
 ▷🌏 Language : Python3
 
