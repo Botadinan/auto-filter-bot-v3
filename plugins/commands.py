@@ -103,7 +103,7 @@ async def start(bot, message):
                         InlineKeyboardButton('More Bots', url='https://t.me/BotzListBot')
                     ],
                     [
-                        InlineKeyboardButton('👨‍💻 Developer @ZauteKm 📢', url=f'{DEV_CHANNEL}')
+                        InlineKeyboardButton('👨‍💻 Developer @adinannissar 📢', url=f'{NETFLIXOXG}')
                     ]
                     ]
                 await bot.send_cached_media(
